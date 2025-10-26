@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# PyWhatKit database file
+PyWhatKit_DB.txt
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temp files
+*.log
+*.tmp
