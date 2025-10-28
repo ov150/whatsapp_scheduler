@@ -30,8 +30,8 @@ else:
 
 print(f"Sending message: {message}")
 # Time in 24-hour format
-# hour = int(os.getenv("HOUR"))
-# minute = int(os.getenv("MINUTE"))
+hour = int(os.getenv("HOUR"))
+minute = int(os.getenv("MINUTE"))
 
 
 send_hour = datetime.now().hour
